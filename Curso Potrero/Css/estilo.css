@@ -1,0 +1,10 @@
+body  {
+  heigh:100%;
+  background-image: url("../Imagen/fondo_tacos.png");
+background-color: transparent;
+background-size: 10rem;
+}
+
+#titulo {text-align: center;  color: blue; text-decoration-line: underline;}
+.Subtitulos{font-size: 150%; text-decoration-line: underline;}
+/* Nadie pidio que sea lindo :) */
